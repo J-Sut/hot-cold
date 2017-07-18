@@ -1,0 +1,44 @@
+.mainGame {
+  max-height: 300px;
+  max-width: 250px;
+  background-color: maroon;
+  margin: 0 auto;
+  border-radius: 13px;
+}
+
+.gameControls {
+  background-color: #39423D;
+  width: 100%;
+  border-radius: 0;
+}
+
+.pastGuesses {
+  background-color: #5D9E90;
+  height: 70px;
+}
+
+button {
+  margin: 10px;
+  background-color: #1F253D;
+  color: white;
+}
+
+p {
+  margin: 0;
+}
+
+input, button {
+  width: 200px;
+  height: 30px;
+  font-size: 1.2em;
+  text-align: center;
+
+}
+
+input {
+  margin: 10px;
+}
+
+.guessCount {
+  height: 50px;
+}
