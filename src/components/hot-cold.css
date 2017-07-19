@@ -44,13 +44,12 @@ input {
 }
 
 .pastGuesses {
-  display: flex;
-  justify-content: center;
+  display: block;
   list-style-type: none;
-  overflow: scroll;
 
 }
 
 .pastGuesses li {
     padding: 8px;
+    float: left; 
 }
