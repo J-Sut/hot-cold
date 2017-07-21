@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import HotColdGame from './components/hot-cold';
-import Header from './components/header'
+import HotColdGame from './hot-cold';
+import Header from './header'
 
 
 class App extends Component {
